@@ -16,7 +16,7 @@ Created by Lewis Menelaws & [TMRRW](https://tmrrwinc.ca)
 ## Video Explainer
 
 [![lewisthumbnail](https://user-images.githubusercontent.com/6053155/173631669-1d1b14ad-c478-4010-b57d-d79592a789f2.png)
-](https://www.youtube.com/watch?v=3gjcY_00U1w)
+## ](https://www.youtube.com/watch?v=3gjcY_00U1w)
 
 ## Motivation 🤔
 
